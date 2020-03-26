@@ -1,0 +1,1 @@
+java -Xmx1g -jar Groove_LearnFromBFS/Groove_LearnFromBFS.jar
